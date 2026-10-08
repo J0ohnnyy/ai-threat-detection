@@ -1,0 +1,14 @@
+# Datasets & trained models are NOT committed (too large / licensing)
+data/
+*.csv
+*.parquet
+models/
+*.joblib
+*.pkl
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
